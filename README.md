@@ -1,4 +1,4 @@
-Menéame
+Fork of Meneame
 =======
 
-Source code for the social aggregator https://www.meneame.net (central repository) 
+This is not the main repository of meneame.net
